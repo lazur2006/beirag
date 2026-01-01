@@ -1,0 +1,5 @@
+data/
+embeddings_bge_m3/
+models/__pycache__/
+shards/
+utils/__pycache__/
